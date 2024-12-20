@@ -6,4 +6,6 @@
 5. source arima-venv-python3-7/bin/activate
 6. pip install -r requirements.txt
 7. pip install matplotlib yfinance
-8. python arima.py
+
+#Run Using
+python3.7 arima.py
