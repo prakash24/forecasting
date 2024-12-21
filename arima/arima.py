@@ -165,7 +165,7 @@ use_yfinance(symbol)
 """
 def use_alpha_vintage(symbol):
     # Alpha Vantage API key
-    api_key = "YB5LTP0WRY7K3DQW"  # Replace with your Alpha Vantage API key
+    api_key = "<<API_KEY>>"  # Replace with your Alpha Vantage API key
 
     # Initialize TimeSeries object
     ts = TimeSeries(key=api_key, output_format='pandas')
